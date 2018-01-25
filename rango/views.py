@@ -14,6 +14,6 @@ def index(request):
 
     """return HttpResponse("Rango says hey there partner!")"""
 
-def about():
+def about(request):
     #Was meant to do at chptr 3 doing mid chptr 4 so gits will be odd
-    return HttpResponse("Rango says here is the about page.")
+    return HttpResponse("""Rango says here is the about page. <a href=/rango/>Home</a><br />""")
