@@ -16,4 +16,5 @@ def index(request):
 
 def about(request):
     #Was meant to do at chptr 3 doing mid chptr 4 so gits will be odd
-    return HttpResponse("""Rango says here is the about page. <a href=/rango/>Home</a><br />""")
+    #return HttpResponse("""Rango says here is the about page. <a href=/rango/>Home</a><br />""")
+    return render(request, 'rango/about.html')

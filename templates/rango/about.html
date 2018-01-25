@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+{% load staticfiles %}
+
 <html>
 
 	<head>
@@ -8,11 +11,16 @@
 	<body>
 		<h1>Rango says...</h1>
 		<div>
-			hey there partner! <br />
-			<strong>{{ boldmessage }}</strong><br />
+			here is the about page. <br />
+			
+		</div>
+		<div><p>This tutorial has been put together by &lt your-name &gt .</p></div>
+		<div>
+			<a href="/rango/">Home</a><br />
+			<img src="{% static "images/picture.png" %}" alt ="A Picture" />
 		</div>
 		<div>
-			<a href="/rango/about/">About</a><br />
+			<img src="{{ MEDIA_URL}}cat.jpg" alt ="Picture of a Cat" />
 		</div>
 	</body>
 	
