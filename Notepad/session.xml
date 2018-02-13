@@ -1,0 +1,9 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="760" startPos="406" endPos="406" selMode="0" lang="HTML" encoding="-1" filename="H:\Workspace\tango_with_django_project\templates\rango\index.html" backupFilePath="" originalFileLastModifTimestamp="1518532278" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="560" startPos="196" endPos="196" selMode="0" lang="HTML" encoding="-1" filename="H:\Workspace\tango_with_django_project\templates\rango\category.html" backupFilePath="" originalFileLastModifTimestamp="1517588191" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-1068655528" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
