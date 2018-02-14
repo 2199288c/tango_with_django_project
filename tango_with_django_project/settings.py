@@ -136,3 +136,5 @@ MEDIA_URL = '/media/'
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 STATICFILES_DIRS = [STATIC_DIR, ] #CHPTR 4
 STATIC_URL = '/static/'
+
+LOGIN_URL = '/rango/login/'
